@@ -1,29 +1,29 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: Research
 description:
 nav: true
 nav_order: 1
 ---
 
-My research sits at the intersection of international security, foreign policy analysis, authoritarian politics, and technology policy. Across these areas, I study how political actors perceive threats, communicate resolve, and adapt to changes in the distribution and instruments of power.
+My research sits at the intersection of international security, foreign policy analysis, and technology policy. Across these areas, I study how political actors perceive threats, communicate resolve, and adapt to changes in the distribution and instruments of power.
 
 If you are interested in these themes or would like to read a working paper, please [get in touch](mailto:aergurum@uwm.edu).
 
-### dissertation
+### Dissertation
 
 <details open style="margin-bottom: 8px;">
 <summary><strong>Why Coercion Fails?</strong></summary>
 <br>
-Why do coercive threats often fail even when sender states possess substantial material leverage? I argue that coercive outcomes depend not only on capabilities and resolve, but also on how signals are produced within the sender state, transmitted through political and media environments, and interpreted by target elites and audiences. The project connects international security, foreign policy, and authoritarian politics through a mixed-method research design.
+My dissertation examines strategic decision-making in American foreign policy and coercive diplomacy. Broadly, it considers how domestic political and institutional forces shape international behavior. The project uses quantitative and computational methods.
 
-Committee: John Reuter, Shale Horowitz, and Natasha Sugiyama.
+Committee: <a href="https://ojreuter.com/">John Reuter</a>, Shale Horowitz, and Natasha Sugiyama.
 </details>
 
 &nbsp;
 
-### selected working papers
+### Selected Working Papers
 
 <details style="margin-bottom: 8px;">
 <summary><strong>Middle Power AI Policy Amid Superpower Rivalry: The Case of the UAE</strong> <i>(with Lawrence Rubin and Dana Abu Haltam)</i></summary>
@@ -51,13 +51,13 @@ This paper connects leader-level belief systems to broader theories of strategic
 
 &nbsp;
 
-### under review
+### Under Review
 
-**“Caught in the Crossfire: Dual Coercion and Japan’s Semiconductor Strategy Amid U.S.–China Rivalry.”** With Eliza Gheorghe and Mürsel Doğrul.
+**“Japan’s Semiconductor Strategy.”** With Eliza Gheorghe and Mürsel Doğrul.
 
 &nbsp;
 
-### research in progress
+### Research in Progress
 
 - “Semi-Supervised Machine Learning Analysis of Congressional Nuclear Rhetoric, 2021–2025.”
 - “Leader Hawkishness and Military Spending: A Panel Data Analysis.”

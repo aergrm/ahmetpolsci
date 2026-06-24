@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description:
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 I teach courses in comparative politics and have supported instruction across international relations, comparative politics, global studies, and American politics at the University of Wisconsin–Milwaukee. My teaching emphasizes analytical clarity, evidence-based argument, and the connection between political science theories and contemporary policy problems.
@@ -41,11 +41,48 @@ Graduate Teaching Assistant, Department of Political Science, University of Wisc
 
 ---
 
-### courses prepared to teach
+Teaching Assistant, Bilkent University, Turkey.
+
+- Diplomatic History (Prof. Hakan Kırımlı)
+- Russian History (Prof. Hakan Kırımlı)
+
+---
+
+### <span><strong style="color:darkred">Research Assistant</strong></span>
+
+---
+
+Research Assistant, Bilkent University, Turkey.
+
+- Archival research on great-power decision-making in the nineteenth century for Prof. Tudor Onea
+- Collection of archival documents concerning the Crimean dynasty for Prof. Hakan Kırımlı
+
+---
+
+### Invited Talks and Workshops
+
+- **Introduction to R for Data Analysis**, two-day workshop, Middle East Foundation, Turkey
+
+---
+
+### Student Evaluations
+
+Selected comments from students in **POL SCI 335: Comparative Political Systems**, taught as Instructor of Record:
+
+- “Engaging class activities and clear expectations, very helpful supplemental materials for studying.”
+- “Ahmet is a great teacher and I really enjoyed him. He is very positive and supports his students very well.”
+- “I liked the activities we did, like forming the coalitions.”
+- “I liked how the course was very chill. I was not scared to ask questions or comment on something.”
+- “Lots of in-class activities and discussions really helped cement the course material.”
+- “Ahmet is obviously very passionate about this subject and knows a lot. He creates some really nice conversations around these hard-to-grasp concepts.”
+
+---
+
+### Courses Prepared to Teach
 
 Introduction to International Relations; International Security; Foreign Policy; Comparative Politics; Authoritarian Politics; Technology and World Politics.
 
-### methodological training
+### Methodological Training
 
 - Emerging Methodologists Workshop, Syracuse University, 2026
 - ICPSR Summer Program in Quantitative Methods, University of Michigan, 2024 and 2026
