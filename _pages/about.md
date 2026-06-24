@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:
 
@@ -12,6 +12,7 @@ profile:
     <p>Ph.D. Candidate</p>
     <p>University of Wisconsin–Milwaukee</p>
     <p>Political Science</p>
+    <p><a href="mailto:aergurum@uwm.edu">aergurum@uwm.edu</a></p>
 
 selected_papers: false
 social: true
@@ -27,13 +28,13 @@ latest_posts:
   limit: 3
 ---
 
-My research focuses on strategic decision-making and interactions in international security, with two primary strands. First, I examine how domestic political forces—particularly public opinion, bureaucracy, and political leaders—shape foreign policy behavior. My dissertation analyzes these dynamics in the context of American foreign policy and coercive diplomacy using survey experiments and computational methods.
+My research focuses on **strategic decision-making and interactions in international security**, with two primary strands. First, I examine how domestic political forces—particularly public opinion, bureaucracy, and political leaders—shape foreign policy behavior. My dissertation analyzes these dynamics in the context of American foreign policy and coercive diplomacy using survey experiments and computational methods.
 
-Second, I study the geopolitical implications of dual-use technologies, especially artificial intelligence and semiconductors. In this line of research, I analyze how technology competition and dependence reshape state behavior, coercion, and alignment. My work in this area employs computational text analysis, network analysis, and quantitative methods.
+Second, I study the **geopolitical implications of dual-use technologies**, especially artificial intelligence and semiconductors. In this line of research, I analyze how technology competition and dependence reshape state behavior, coercion, and alignment. My work in this area employs computational text analysis, network analysis, and quantitative methods.
 
 I am an alumnus of the [ICPSR Summer Program in Quantitative Methods](https://www.icpsr.umich.edu/sites/icpsr/sumprog/scholarships/winners-2024), organized by the University of Michigan; the [Summer Institute in Computational Social Science–Istanbul](https://sicss.io/2023/istanbul/people); and the [Hertie School Data Science Lab's Data Science Summer School](https://www.hertie-school.org/en/datasciencelab/teaching-services) in Germany. I am also among the invited participants of the [Emerging Methodologist Workshop](https://iqmrnavigator.org/weekend-workshops/participants), organized by the Institute for Qualitative and Multi-Method Research (IQMR) at Syracuse University.
 
-My work has been published or is forthcoming in [*International Political Science Review*](https://journals.sagepub.com/eprint/HQFBIPNQC4PXSEUXNUFQ/full), [*International Relations*](https://www.jstor.org/stable/27405761), and edited volumes from [Routledge](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003631842-3/turkey-middle-power-emerging-multipolar-world-order-ahmet-ergurum?context=ubx&refId=962bdf3f-18df-47d1-b06b-bc8ce220c350), [Springer](https://link.springer.com/), the [*Oxford Research Encyclopedia of African History*](https://global.oup.com/academic/product/oxford-research-encyclopedias-african-history-9780190277734?cc=us&lang=en&), and [Wiley](https://onlinelibrary.wiley.com/doi/10.1002/9781119909880.ch6). I have also contributed policy analysis on regional energy security and conflict dynamics for think tanks and research institutions.
+My work has been published or is forthcoming in [International Political Science Review](https://journals.sagepub.com/eprint/HQFBIPNQC4PXSEUXNUFQ/full), [International Relations](https://www.jstor.org/stable/27405761), and edited volumes from [Routledge](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003631842-3/turkey-middle-power-emerging-multipolar-world-order-ahmet-ergurum?context=ubx&refId=962bdf3f-18df-47d1-b06b-bc8ce220c350), [Springer](https://link.springer.com/), the [Oxford Research Encyclopedia of African History](https://global.oup.com/academic/product/oxford-research-encyclopedias-african-history-9780190277734?cc=us&lang=en&), and [Wiley](https://onlinelibrary.wiley.com/doi/10.1002/9781119909880.ch6). I have also contributed policy analysis on regional energy security and conflict dynamics for think tanks and research institutions.
 
 I have served as a reviewer for *Political Research Quarterly*, *Global Studies Quarterly*, *International Politics*, *International Political Science Review*, and *Southeast European and Black Sea Studies*.
 
